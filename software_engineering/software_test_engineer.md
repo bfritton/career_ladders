@@ -2,35 +2,35 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Software Engineer I](#software-engineer-i)
+- [Software Test Engineer I](#software-test-engineer-i)
   - [Test Process Steps & Management](#test-process-steps--management)
   - [Tools](#tools)
   - [Automation](#automation)
   - [Code Writing](#code-writing)
   - [SDLC/Process](#sdlcprocess)
   - [Ruby / Rails Testing](#ruby--rails-testing)
-- [Software Engineer II](#software-engineer-ii)
+- [Software Test Engineer II](#software-test-engineer-ii)
   - [Test Process Steps & Management](#test-process-steps--management-1)
   - [Tools](#tools-1)
   - [Automation](#automation-1)
   - [Code Writing](#code-writing-1)
   - [SDLC/Process](#sdlcprocess-1)
   - [Ruby / Rails Testing](#ruby--rails-testing-1)
-- [Sr. Software Engineer I](#sr-software-engineer-i)
+- [Sr. Software Test Engineer I](#sr-software-test-engineer-i)
   - [Test Process Steps & Management](#test-process-steps--management-2)
   - [Tools](#tools-2)
   - [Automation](#automation-2)
   - [Code Writing](#code-writing-2)
   - [SDLC/Process](#sdlcprocess-2)
   - [Ruby / Rails Testing](#ruby--rails-testing-2)
-- [Sr. Software Engineer II](#sr-software-engineer-ii)
+- [Sr. Software Test Engineer II](#sr-software-test-engineer-ii)
   - [Test Process Steps & Management](#test-process-steps--management-3)
   - [Tools](#tools-3)
   - [Automation](#automation-3)
   - [Code Writing](#code-writing-3)
   - [SDLC/Process](#sdlcprocess-3)
   - [Ruby / Rails Testing](#ruby--rails-testing-3)
-- [Lead Software Engineer](#lead-software-engineer)
+- [Lead Software Test Engineer](#lead-software-test-engineer)
   - [Test Process Steps & Management](#test-process-steps--management-4)
   - [Tools](#tools-4)
   - [Automation](#automation-4)
@@ -40,7 +40,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Software Engineer I
+# Software Test Engineer I
 ## Test Process Steps & Management
 * Executes a defined set of steps during testing individual tasks with direction.
 * Creates a defined set of steps for others to execute while testing individual tasks.
@@ -65,28 +65,28 @@
 * Understands common Ruby based test tools
 * Writes new tests using accepted tools ( RSpec, Cucumber, etc.. ) with some direction
 
-# Software Engineer II
+# Software Test Engineer II
 ## Test Process Steps & Management
 * Executes a defined set of steps during testing individual tasks without direction.
 * Research, recommend and implement new test tools, techniques and processes for implementation on specific project
 * Executes testing strategy project wide.
 
 ## Tools
-* Same as SE I
+* Same as STE I
 
 ## Automation
 * Recommends and implements new test techniques and processes for use on specific project.
 
 ## Code Writing
-* Same as SE I
+* Same as STE I
 
 ## SDLC/Process
-* Same as SE I
+* Same as STE I
 
 ## Ruby / Rails Testing
 * Writes new tests using accepted tools ( RSpec, Cucumber, etc.. ) with no direction
 
-# Sr. Software Engineer I
+# Sr. Software Test Engineer I
 ## Test Process Steps & Management
 * Mentors Test I/II engineers progress through assigned QA tasks
 
@@ -108,7 +108,7 @@
 * Recommends and implements new versions of accepted Ruby testing tools.
 * Understands and refactors existing Ruby/Rails test code with little direction
 
-# Sr. Software Engineer II
+# Sr. Software Test Engineer II
 ## Test Process Steps & Management
 * Research, recommend and implement new techniques and processes for implementation team wide.
 
@@ -128,12 +128,12 @@
 ## Ruby / Rails Testing
 * Migrates older Ruby/Rails testing code onto new versions.
 
-# Lead Software Engineer
+# Lead Software Test Engineer
 ## Test Process Steps & Management
 * Manages and oversees the creation and execution of an entire product testing strategy.
 * Works with Test I/II/Sr. engineers to deliver tested projects
 * Works with SE Manager to define testing strategy across a Core.
-* Research, recommend and implement new, techniques and processes for implementation SE wide. 
+* Research, recommend and implement new, techniques and processes for implementation SE wide.
 
 ## Tools
 * Selects, setup and recommends tools and process for usage SE wide.
