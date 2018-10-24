@@ -24,7 +24,7 @@ There's 6 engineering ladders contained:
 * software_test_engineer - Software Test Engineer Ladder
 * mobile_engineer - Mobile Engineer Ladder
 
-After you become a Lead Engineer, you can select to either go into the Individual Contributor track or the Mangement track:
+After you become a Lead Engineer, you can select to either go into the Individual Contributor track or the Management track:
 
 * individual_contributor - Principal Engineer Ladder
 * mangement - Manager Ladder
